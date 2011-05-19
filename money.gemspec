@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 Gem::Specification.new do |s|
   s.name        = "money"
   s.version     = "3.6.1"
@@ -5,9 +7,9 @@ Gem::Specification.new do |s|
   s.authors     = ["Tobias Luetke", "Hongli Lai", "Jeremy McNevin",
                    "Shane Emmons", "Simone Carletti", "Jean-Louis Giordano",
                    "Joshua Clayton", "Bodaniel Jeanes", "Tobias Schmidt",
-                   "Chris Kampmeier", "Romain Gérard", "Eloy", "Josh Delsman",
+                   "Chris Kampmeier", "Eloy", "Josh Delsman",
                    "Pelle Braendgaard", "Tom Lianza", "James Cotterill",
-                   "François Beausoleil", "Abhay Kumar", "pconnor",
+                   "Abhay Kumar", "pconnor",
                    "Christian Billen", "Ilia Lobsanov",
                   ]
   s.email       = ["hongli@phusion.nl", "semmons99+RubyMoney@gmail.com"]
